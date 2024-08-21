@@ -80,7 +80,7 @@
         }
       }
     },
-    "@effy-tech/angular-token": {
+    "@raysuelzer/angular-token": {
       "projectType": "library",
       "root": "projects/angular-token",
       "sourceRoot": "projects/angular-token/src",
@@ -111,5 +111,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "658744bd-03a0-4d11-b08c-2dc747faebe0"
   }
 }

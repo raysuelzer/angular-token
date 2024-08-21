@@ -5,11 +5,11 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "build:lib": "ng build @effy-tech/angular-token",
+    "build:lib": "ng build @raysuelzer/angular-token",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "test:lib": "ng test @effy-tech/angular-token",
-    "publish:lib": "npm publish ./dist/angular-token"
+    "test:lib": "ng test @raysuelzer/angular-token",
+    "publish:lib": "npm publish ./dist/angular-token --access=public"
   },
   "private": true,
   "dependencies": {
